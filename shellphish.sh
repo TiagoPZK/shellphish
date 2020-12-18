@@ -1,4 +1,4 @@
-#!/bin/bash
+
 # ShellPhish v1.1
 # Coded by: thelinuxchoice
 # Github: https://github.com/thelinuxchoice/shellphish
